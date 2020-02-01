@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "January Wrap Up!"
-date:   2020-02-01 17:49:06 +0000
+date:   2020-02-01 21:16:06 +0000
 ---
 
 ![January In Summary](/assets/jan.jpeg)

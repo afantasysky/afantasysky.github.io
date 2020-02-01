@@ -4,7 +4,7 @@ title:  "Welcome to My Blog!"
 date:   2020-02-01 17:49:06 +0000
 ---
 
-![me](/assets/me.jpg)
+![me](/assets/me.jpeg)
 
 I'm Gagan, a software engineer who is obsessed with reading science fiction and fantasy books.
 
