@@ -11,6 +11,7 @@ date:   2020-02-01 21:16:06 +0000
 I read way more than I expected to in January. Partly because I'm in Edinburgh with work so I have a lot more time to myself.
 My biggest surprise of the month was An Unkindness of Ghosts, it was a book that consumed my thoughts when I was reading it and
 generated a great book club discussion. I can't wait to get my hands on some more books by Rivers Solomon.
+
 In an attempt to read more short fiction, I also signed up to a bunch of SFF newsletters. Through that and other recommendations I've
 read some great short stories this month. My favourite was [Do not look back my lion](http://www.beneath-ceaseless-skies.com/stories/do-not-look-back-my-lion/) by Alix E Harrow.
 It is a heartbreaking f/f story about a warrior married to a healer living in an empire that is constantly at war. It was such a moving story and does some really interesting things with gender roles.
