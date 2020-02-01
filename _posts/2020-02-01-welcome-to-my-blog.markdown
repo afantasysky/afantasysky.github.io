@@ -2,7 +2,6 @@
 layout: post
 title:  "Welcome to My Blog!"
 date:   2020-02-01 17:49:06 +0000
-categories: jekyll update
 ---
 
 I'm Gagan, a software engineer who is obsessed with reading science fiction and fantasy books.
