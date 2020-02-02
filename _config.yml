@@ -32,7 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-google_analytics: UA-NNNNNNNN-N
+google_analytics: UA-157512600-1
 
 show_excerpts: true
 
