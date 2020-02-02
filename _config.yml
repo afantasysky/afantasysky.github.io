@@ -33,6 +33,8 @@ plugins:
   - jekyll-feed
 
 google_analytics: UA-157512600-1
+disqus:
+    shortname: afantasysky
 
 show_excerpts: true
 
