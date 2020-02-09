@@ -4,7 +4,7 @@ title:  "People of Colour in Science Fiction and Fantasy"
 date:   2020-02-08 18:16:06 +0000
 ---
 
-![January In Summary](/assets/jan.jpeg)
+![POC Books](/assets/poc-books.jpeg)
 
 
 
