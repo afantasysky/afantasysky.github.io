@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Febrary Wrap Up!"
+title:  "February Wrap Up!"
 date:   2020-03-01 13:16:06 +0000
 ---
 
